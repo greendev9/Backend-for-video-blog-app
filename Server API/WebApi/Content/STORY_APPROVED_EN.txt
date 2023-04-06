@@ -1,0 +1,1 @@
+﻿Your {Post} about <span class='noti-msg-bkend-type'>{Topic}</span> was successfully published

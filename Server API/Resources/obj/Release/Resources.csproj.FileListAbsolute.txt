@@ -1,0 +1,197 @@
+C:\Users\Gorbatov\Webapi\Resources.dll
+C:\Users\Gorbatov\Webapi\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.pdb
+C:\Users\Gorbatov\Webapi\he\Resources.resources.dll
+C:\Users\Gorbatov\Webapi\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.Resources.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Release\ru\Resources.resources.dll
+D:\Webapi\Resources.dll
+D:\Webapi\Resources.pdb
+D:\Webapi\he\Resources.resources.dll
+D:\Webapi\ru\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Webapi\Resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Webapi\Resources.pdb
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Webapi\he\Resources.resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Webapi\ru\Resources.resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\okrief\Desktop\Webapi\Resources.dll
+C:\Users\okrief\Desktop\Webapi\Resources.pdb
+C:\Users\okrief\Desktop\Webapi\he\Resources.resources.dll
+C:\Users\okrief\Desktop\Webapi\ru\Resources.resources.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Webapi\Resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Webapi\Resources.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Webapi\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Webapi\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Webapi\Resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Webapi\Resources.pdb
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Webapi\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Webapi\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Webapi\Resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Webapi\Resources.pdb
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Webapi\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Webapi\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Resources\obj\Release\Resources.pdb
+C:\Users\nala\Webapi\Resources.dll
+C:\Users\nala\Webapi\Resources.pdb
+C:\Users\nala\Webapi\he\Resources.resources.dll
+C:\Users\nala\Webapi\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.Resources.resources
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\he\Resources.resources.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Resources\obj\Release\Resources.pdb

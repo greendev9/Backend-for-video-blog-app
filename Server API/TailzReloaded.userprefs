@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{80331365-7C21-4062-9821-E1F724179625}|Default">
+  <MonoDevelop.Ide.ItemProperties.BlaBlogReloaded PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlaBlogReloaded/wwwroot/css/home.css">
+    <Files>
+      <File FileName="BlaBlogReloaded/Views/BlaBlogLucy/TailView.cshtml" Line="24" Column="7" />
+      <File FileName="BlaBlogReloaded/Views/Inbox/Index.cshtml" Line="17" Column="22" />
+      <File FileName="BlaBlogReloaded/wwwroot/css/global.css" Line="456" Column="3" />
+      <File FileName="BlaBlogReloaded/wwwroot/css/BlaBlogLucy.css" Line="20" Column="2" />
+      <File FileName="BlaBlogReloaded/wwwroot/css/home.css" Line="380" Column="20" />
+      <File FileName="BlaBlogReloaded/Views/Home/Index.cshtml" Line="25" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/yaakov/Downloads/Site Code 6.3.18/BlaBlogReloaded/Controllers/RegistrationController.cs" relfile="BlaBlogReloaded/Controllers/RegistrationController.cs" line="42" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

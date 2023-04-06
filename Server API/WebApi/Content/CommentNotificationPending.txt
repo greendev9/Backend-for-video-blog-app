@@ -1,0 +1,7 @@
+﻿﻿ <table dir="ltr">
+    <tr>
+        <td>
+           {NickName} left a comment on your story "{Title}" : <br/> {CommentBody} <br/><br/> BlaBlogLucy Team
+        </td>
+    </tr>
+</table>

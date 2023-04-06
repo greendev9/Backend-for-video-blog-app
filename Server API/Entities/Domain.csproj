@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <OutputPath></OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Filtering\**" />
+    <Compile Remove="Models\Localization\**" />
+    <EmbeddedResource Remove="Filtering\**" />
+    <EmbeddedResource Remove="Models\Localization\**" />
+    <None Remove="Filtering\**" />
+    <None Remove="Models\Localization\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Models\Customers\Report.cs" />
+    <Compile Remove="Models\Notifications\CommentNotificationType.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cultures\Cultures.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="morelinq" Version="2.10.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Models\Customers\" />
+  </ItemGroup>
+
+</Project>

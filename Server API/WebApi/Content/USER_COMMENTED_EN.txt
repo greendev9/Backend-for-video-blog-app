@@ -1,0 +1,2 @@
+﻿{NickName} Commented on your Relationship <span class='noti-msg-bkend-type'>{Post}<span>: </br>
+<span class='noti-msg-bkend-comment'>{Body}<span>

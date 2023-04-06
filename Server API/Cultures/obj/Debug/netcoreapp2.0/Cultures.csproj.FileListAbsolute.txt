@@ -1,0 +1,63 @@
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Debug\netcoreapp2.0\Cultures.pdb

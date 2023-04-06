@@ -1,0 +1,7 @@
+﻿ <table dir="ltr">
+    <tr>
+        <td>
+           Hi, {NickName}<br/><br/>Please click the <a href='{Link}'> link </a> to confirm your registration <br/><br/> Thank you  <br/> BlaBlogLucy Team
+        </td>
+    </tr>
+</table>

@@ -1,0 +1,7 @@
+﻿ <table dir="ltr">
+    <tr>
+        <td>
+           Comment from {NickName} on your story "{Title}" has been approved by admin : <br/> {CommentBody} <br/><br/> BlaBlogLucy Team
+        </td>
+    </tr>
+</table>

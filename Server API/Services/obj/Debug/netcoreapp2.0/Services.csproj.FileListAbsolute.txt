@@ -1,0 +1,128 @@
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Services\obj\Debug\netcoreapp2.0\Services.pdb
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.dll
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.pdb
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.dll
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.dll
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.pdb
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+D:\BlaBlog\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.dll
+D:\BlaBlog\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.deps.json
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Services.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Data.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Domain.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\bin\Debug\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Services\obj\Debug\netcoreapp2.0\Services.pdb

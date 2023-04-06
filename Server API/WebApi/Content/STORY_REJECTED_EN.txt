@@ -1,0 +1,1 @@
+﻿Your {Post} about <span class='noti-msg-bkend-type'>{Topic}</span> was denie published. </br> Please go to denied folder and re-edit your {Post}

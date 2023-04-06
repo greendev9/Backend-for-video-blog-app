@@ -1,0 +1,144 @@
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+D:\BlaBlog\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+D:\BlaBlog\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server  30.7.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server  30.7.19 No Email Verfication\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 4.8.19 - No email Verfication and No client Notification that asked to do so AND with Comments detections\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\b\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 21.8.19 NoEmail\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\okrief\Desktop\ClientServer\ClientServer\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\okrief\Desktop\Server 22.9.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 17.1.20  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server 27.3.2020  No Emails\Server 27.3.20 No Emails\Server 27.3.20 N E\BlaBlog-server\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Code\Server API 20.3.21\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.deps.json
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\bin\Release\netcoreapp2.0\Cultures.pdb
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.AssemblyInfo.cs
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.dll
+C:\Users\nala\Desktop\Backend 13.6.22\Server API\Cultures\obj\Release\netcoreapp2.0\Cultures.pdb

@@ -1,0 +1,1 @@
+﻿{NickName} has liked your <span class='noti-msg-bkend-type'>{Post}</span>

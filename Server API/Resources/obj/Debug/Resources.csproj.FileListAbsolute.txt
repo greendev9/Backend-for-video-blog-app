@@ -1,0 +1,141 @@
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\Resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\Resources.pdb
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\MoreLinq.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\MoreLinq.xml
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.dll
+C:\Users\ThinkServer\Downloads\WebAPI-20181116T163016Z-001\WebAPI\Resources\obj\Debug\Resources.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\Resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\Resources.pdb
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\MoreLinq.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\MoreLinq.xml
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csprojResolveAssemblyReference.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.dll
+C:\Users\ThinkServer\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\MoreLinq.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\MoreLinq.xml
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\BlaBlog\WebAPI\Resources\obj\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\MoreLinq.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\MoreLinq.xml
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\BlaBlogLucy\BlaBlog\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\Resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\Resources.pdb
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\he\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\ru\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\MoreLinq.dll
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.dll
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\MoreLinq.xml
+D:\BlaBlog\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.xml
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.Resources.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.Resources.he.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.Resources.ru.resources
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\he\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\ru\Resources.resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CopyComplete
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.dll
+D:\BlaBlog\BlaBlog-server\Resources\obj\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\Resources.pdb
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\MoreLinq.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\MoreLinq.xml
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.dll
+C:\Users\Gorbatov\Documents\Taiillz-14-06-19\BlaBlog-server\Resources\obj\Debug\Resources.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\Resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\Resources.pdb
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\MoreLinq.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\MoreLinq.xml
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\bin\Debug\System.ValueTuple.xml
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\he\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\ru\Resources.resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CopyComplete
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.dll
+C:\Users\nala\Desktop\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.pdb
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csprojAssemblyReference.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.he.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.Resources.ru.resources
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.GenerateResource.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.csproj.CoreCompileInputs.cache
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.dll
+C:\Users\nala\Desktop\Server 15.10.19  No Emails\Server 15.10.19\Server 22.9.19\BlaBlog-server\Resources\obj\Debug\Resources.pdb
